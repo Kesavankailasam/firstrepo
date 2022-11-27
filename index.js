@@ -1,1 +1,1 @@
-ndex file
+index file
